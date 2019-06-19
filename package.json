@@ -1,0 +1,24 @@
+{
+  "name": "kcolorchooser-node",
+  "version": "1.0.0",
+  "description": "A promise-based Node interface for the kcolorchooser application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagicCap/kcolorchooser-node.git"
+  },
+  "keywords": [
+    "color",
+    "node",
+    "linux"
+  ],
+  "author": "Jake Gealer",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/MagicCap/kcolorchooser-node/issues"
+  },
+  "homepage": "https://github.com/MagicCap/kcolorchooser-node#readme"
+}
